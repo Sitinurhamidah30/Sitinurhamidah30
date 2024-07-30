@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning front end developer
 - 📫 How to reach me : sitinurhamidah37@gmail.com
 - 😄 Pronouns: I'm employee 
-- ⚡ Fun fact: i like running 
+- ⚡ Fun fact: i like running and bicycle
 
 <!---
 Sitinurhamidah30/Sitinurhamidah30 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
